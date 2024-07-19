@@ -1,6 +1,6 @@
 
 
-cp -rf alacritty/ ~/.config/ 
+cp -rf kitty/ ~/.config/ 
 
 cp -rf fastfetch/ ~/.config/ 
 
